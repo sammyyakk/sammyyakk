@@ -32,10 +32,10 @@ Hello, I’m **Samyak Jain**, a passionate tech enthusiast with a deep interest 
 > **Achievement**: Showcased at the prestigious **TechExpo 2024**, IIT Guwahati’s *Techniche*, where it was shortlisted and received high praise from industry leaders. 🌟
 
 #### **Images**:  
-- ![image](https://assets.devfolio.co/content/22807c5bca7040148da6393fea7fb912/2a138dae-3da0-424f-9bf5-20727a80e0cf.png)
-- ![image](https://assets.devfolio.co/content/22807c5bca7040148da6393fea7fb912/b4ca8854-9a04-47b7-b8b0-a936454ca544.png)
-- ![image](https://assets.devfolio.co/content/22807c5bca7040148da6393fea7fb912/2eb8353c-ace9-41a4-8bc9-2c72b81d3a2e.png)
-- ![image](https://assets.devfolio.co/content/22807c5bca7040148da6393fea7fb912/147cded0-ef57-4116-8514-8fc44948824c.png)
+- ![image](images/1.png)
+- ![image](images/2.png)
+- ![image](images/3.png)
+- ![image](images/4.png)
 
 ---
 
@@ -49,7 +49,7 @@ Hello, I’m **Samyak Jain**, a passionate tech enthusiast with a deep interest 
 - **Vocal Sentiment Analysis**: Incorporated a sentiment analysis model for voice interactions to provide emotional support.
 
 #### **Images**:  
-- ![Screenshot 1](https://assets.devfolio.co/content/22807c5bca7040148da6393fea7fb912/ff9c6bf4-4a43-4b8c-9ad5-d5110373c39f.png)
+- ![Screenshot 1](images/5.png)
 
 - *Link to Explanation Video*: 🎥 [Click Here](https://uploadnow.io/s/668298fa-21b0-4148-8391-714fc349a1dc)
 
@@ -77,8 +77,8 @@ I am driven by the idea of using technology to **bridge societal gaps**, whether
 
 ## **Images & Screenshots** 📸
 
-- ![image](https://assets.devfolio.co/content/22807c5bca7040148da6393fea7fb912/ced20726-500c-4c80-8364-12c1c0cd3a72.png)
-- ![image](https://assets.devfolio.co/content/22807c5bca7040148da6393fea7fb912/caeed3a3-d39f-430b-bd24-15e06908b48c.png)
+- ![image](images/6.png)
+- ![image](images/7.png)
 
 ---
 
