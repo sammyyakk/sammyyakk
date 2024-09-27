@@ -37,7 +37,7 @@ I'm excited to **learn** and **grow** in the field of technology, eager to **col
 
 ## **✨ Let's Connect!**
 
-- **Email**: [chetnanegi@example.com](mailto:chetnanegi437@gmail.com)
+- **Email**: [chetnanegi437@gmail.com](mailto:chetnanegi437@gmail.com)
 
 ---
 

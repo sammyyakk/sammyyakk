@@ -39,7 +39,7 @@ Hello, I’m **Ashika Jain**, a first-year **Computer Science Engineering** stud
 
 ## **Get in Touch** 📬
 
-- **Email**: [ashikajain@example.com](mailto:ashikajain2401@gmail.com)  
+- **Email**: [ashikajain2401@gmail.com](mailto:ashikajain2401@gmail.com)  
 - **LinkedIn**: [Ashika Jain](https://www.linkedin.com/in/ashika-jain-72504a2a0/)  
 
 ---
