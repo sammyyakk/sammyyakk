@@ -12,7 +12,7 @@ Hello, I’m **Ashika Jain**, a first-year **Computer Science Engineering** stud
 **Problem Statement**: Empowering women's menstrual health: Bridging the gap with technology.  
 **Solution**: Developed **SAKHI**, a mobile app with voice and text interfaces designed to provide predictive insights, personalized advice, and educational resources for managing menstrual health issues. The app aims to support both literate and illiterate users, and future updates will incorporate **AI** and **period blood scans** for enhanced predictive capabilities.
 
-<copy the images in you clipboard and just paste them normally it will automatically make it into a link, you can preview the file before submitting>
+<copy the images in your clipboard and just paste them normally it will automatically make it into a link, you can preview the file before submitting>
 
 > **Link to App**: [Check out Sakhi here](https://studio.code.org/projects/applab/uOmOPYPnqk517m-0jflNSHM-F0asRRHzEQyY7ABfoTg)  
 
@@ -39,8 +39,8 @@ Hello, I’m **Ashika Jain**, a first-year **Computer Science Engineering** stud
 
 ## **Get in Touch** 📬
 
-- **Email**: [ashikajain@example.com](mailto:ashikajain@example.com)  
-- **LinkedIn**: [Ashika Jain](https://www.linkedin.com/in/ashikajain)  
+- **Email**: [ashikajain@example.com](mailto:ashikajain2401@gmail.com)  
+- **LinkedIn**: [Ashika Jain](https://www.linkedin.com/in/ashika-jain-72504a2a0/)  
 
 ---
 
