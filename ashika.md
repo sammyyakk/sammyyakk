@@ -1,7 +1,3 @@
-Here’s a well-structured `README.md` for Ashika’s profile:
-
----
-
 # **Ashika Jain** 🌟
 
 ### **About Me**  
@@ -15,6 +11,8 @@ Hello, I’m **Ashika Jain**, a first-year **Computer Science Engineering** stud
 
 **Problem Statement**: Empowering women's menstrual health: Bridging the gap with technology.  
 **Solution**: Developed **SAKHI**, a mobile app with voice and text interfaces designed to provide predictive insights, personalized advice, and educational resources for managing menstrual health issues. The app aims to support both literate and illiterate users, and future updates will incorporate **AI** and **period blood scans** for enhanced predictive capabilities.
+
+<copy the images in you clipboard and just paste them normally it will automatically make it into a link, you can preview the file before submitting>
 
 > **Link to App**: [Check out Sakhi here](https://studio.code.org/projects/applab/uOmOPYPnqk517m-0jflNSHM-F0asRRHzEQyY7ABfoTg)  
 
@@ -51,5 +49,3 @@ Hello, I’m **Ashika Jain**, a first-year **Computer Science Engineering** stud
 I’m passionate about using technology to **solve real-world problems**, and I look forward to collaborating on projects that make a meaningful impact. My current focus is on refining **SAKHI** with AI-powered capabilities and exploring more areas of **women’s healthcare technology**. Let's connect and grow together! 🌱
 
 ---
-
-This structure presents Ashika's skills, projects, and achievements concisely.
