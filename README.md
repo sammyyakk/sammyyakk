@@ -1,87 +1,21 @@
-# **Portfolio** 🚀
+# 💫 About Me:
+🔭 I’m currently working on LLVMs<br>🤝 I’m looking for help with Low Level Virtualization<br>🌱 I’m currently learning MLOPs<br>⚡ Fun fact, I am high 24/7
 
-### **Overview**
 
-Hello, I’m **Samyak Jain**, a passionate tech enthusiast with a deep interest in **Backend Development**, **Artificial Intelligence & Machine Learning (AI/ML)**, and **Cybersecurity**. My experience spans building intelligent systems, developing web applications, and working on innovative projects that aim to solve real-world problems. 🔥
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/sammyyakk) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sammyyakk) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sammyyakk) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/sammyyakk) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@sammyyakk) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sammyyakk@gmail.com) 
 
----
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) ![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Radix UI](https://img.shields.io/badge/radix%20ui-161618.svg?style=for-the-badge&logo=radix-ui&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white) ![AMD](https://img.shields.io/badge/AMD-%23000000.svg?style=for-the-badge&logo=amd&logoColor=white) ![OpenGL](https://img.shields.io/badge/OpenGL-white?logo=OpenGL&style=for-the-badge) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=sammyyakk&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=sammyyakk&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sammyyakk&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## **Skills & Expertise** 🛠️
-
-- **Programming Languages**: Python 🐍, R 📊, HTML, CSS, JavaScript, React.js ⚛️, Node.js
-- **Focus**: Backend Development, Data Analysis, Web Development 🌐
-- **AI/ML Tools**: OpenCV 👁️, YOLO, DeepFace, Tensorflow, Keras 🧠
-- **Other Tools**: Flask, Django, PyQT, TKinter, Roboflow
-- **Cybersecurity**: Enthusiast, currently exploring the domain 🔒
-
----
-
-## **Key Projects** 💼
-
-### **1. Echoes of Time (IIT Guwahati TechExpo 2024 Shortlisted Project)** 🏆
-
-**Problem Statement**: To digitally preserve ancient Brahmi script characters, enabling future generations to understand this ancient language better.  
-**Solution**: Developed a custom model for **Brahmi script recognition** using advanced image processing and deep learning techniques. 🌟
-
-#### **Technologies Used**:
-- **OpenCV**: Developed an image preprocessing algorithm to remove rocky textures and enhance clarity for character identification.
-- **YOLO**: Trained a custom object detection model for recognizing individual Brahmi script characters.
-- **Roboflow**: Created a dataset and performed annotation for the Brahmi script characters.
-- **Flask**: Deployed the solution as a web app for ease of use and accessibility.
-
-> **Achievement**: Showcased at the prestigious **TechExpo 2024**, IIT Guwahati’s *Techniche*, where it was shortlisted and received high praise from industry leaders. 🌟
-
-#### **Images**:  
-- ![image](images/1.png)
-- ![image](images/2.png)
-- ![image](images/3.png)
-- ![image](images/4.png)
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=sammyyakk&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### **2. Mindful Mate (AI-Powered Mental Health Chatbot)** 💬🧠
-
-**Problem Statement**: Children facing mental health issues such as **depression, anxiety, ADHD, dyslexia, and dysgraphia** often do not receive timely support.  
-**Solution**: Built an AI chatbot that uses **facial emotion detection** and **vocal sentiment analysis** to adapt its responses based on the user's emotional state, providing timely and empathetic interactions. ❤️🤖
-
-#### **Technologies Used**:
-- **Haarcascade Classifier & DeepFace Library**: Used for **facial emotion detection** to analyze the emotional state of users in real time.
-- **Vocal Sentiment Analysis**: Incorporated a sentiment analysis model for voice interactions to provide emotional support.
-
-#### **Images**:  
-- ![Screenshot 1](images/5.png)
-
-- *Link to Explanation Video*: 🎥 [Click Here](https://uploadnow.io/s/668298fa-21b0-4148-8391-714fc349a1dc)
-
----
-
-## **Workshops and Hackathons** 🎓
-
-- **IIT Guwahati Techniche 2024 – TechExpo**: Presented *Echoes of Time*; shortlisted as one of the top innovative projects. 🏅
-- **SIC 2023 Winner**: Hosted by the same organization of SIH but at the school level. Visit: [sic.mic.gov.in](https://sic.mic.gov.in/)
-
----
-
-## **What Drives Me?** 🚀
-
-I am driven by the idea of using technology to **bridge societal gaps**, whether it's through **preserving ancient cultures**, providing **mental health support**, or pushing the boundaries of **innovation in AI/ML**. My projects reflect this passion and demonstrate my ability to turn ideas into **functional, impactful solutions**. 🔍✨
-
----
-
-## **Get in Touch** 🤝
-
-- **LinkedIn**: [Samyak Jain](https://www.linkedin.com/in/sammyyakk/)
-- **Email**: [sammyyakk@gmail.com](mailto:sammyyakk@gmail.com)
-
----
-
-## **Images & Screenshots** 📸
-
-- ![image](images/6.png)
-- ![image](images/7.png)
-
----
-
-## **Conclusion** 🎯
-
-Through projects like *Echoes of Time* and *Mindful Mate*, I aim to combine **technology with purpose**, creating solutions that make a real impact. I’m excited about the opportunity to participate in **BVP-HEX: Hack Eleven Xpress** and continue my journey of **learning, collaboration**, and **innovation**. 🚀💡
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
